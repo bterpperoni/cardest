@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="V1_0__create_users_table.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/src/main/resources/db/migration/V1_0__create_users_table.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="654c3692-e7d6-419f-a402-a3f391fbe899" />
+    <method v="2" />
+  </configuration>
+</component>
